@@ -43,6 +43,13 @@ findspark.init(path)
 * Configure SparkSession to your own preferences
 * Press "Run All"
 
+### Data
+
+Used files from Yelp dataset:
+
+* business.json
+* review.json
+
 
 ## Authors
 
