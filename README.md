@@ -26,7 +26,7 @@ Building a recommender algorithm is crucial for Yelp's success. It enhances user
 * Code wrote on: macOS Ventura Version 13.5.1
 * Libraries: PySpark, FindSpark, Matplotlib, Seaborn, WordCloud, Textblob, NLTK, Scikit-learn
 
-```
+```bash
 !pip install pyspark, findspark, matplotlib, seaborn, wordcloud, textblob, nltk, sklearn
 ```
 
@@ -35,7 +35,7 @@ Building a recommender algorithm is crucial for Yelp's success. It enhances user
 
 * Paste your own spark path
 
-```
+```python
 path = "your path"
 findspark.init(path)
 ```
