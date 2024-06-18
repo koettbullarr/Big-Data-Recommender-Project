@@ -1,6 +1,10 @@
 # Big-Data-Recommender-Project
 University big data project. Analysing Yelp dataset and developing recommendation algorithms
 
+![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Spark ML](https://img.shields.io/badge/Spark%20ML-4CAF50?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 # Team Q Project (Yelp Dataset)
 
 ## Purpose of the project
